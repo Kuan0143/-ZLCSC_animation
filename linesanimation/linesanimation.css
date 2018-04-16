@@ -1,18 +1,19 @@
-@import "./reset.css"; 
- 
-body { 
-    box-sizing: border-box; 
-} 
-.section { 
+@import "reset.css"; 
+
+body {
+    height: auto;
+}
+.section {
     width: 100%; 
     height: 100vh; 
-} 
-.section_1 { 
+}
+.section_1 {
     background: linear-gradient(to bottom right, #f49f9f, #e06494, #d062e0); 
-} 
-.section_2 { 
+}
+
+.section_2 {
     background: linear-gradient(to bottom left, #70e8f0, #a7cfd1, #f49f9f); 
-} 
-.section_3 { 
+}
+.section_3 {
     background: linear-gradient(to bottom left, #7acbed, #5a6ae2); 
 }

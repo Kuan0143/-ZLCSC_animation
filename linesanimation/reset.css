@@ -53,3 +53,23 @@ button{
     border:none; 
     background:none 
 }
+
+h1 {
+    color:white;
+    font-size: 3.4rem;
+    line-height: 70px;
+    font-weight: 220;
+}
+h2 {
+    color:white;
+    font-size: 2.7rem;
+    letter-spacing: 6px;
+    line-height: 50px;
+    font-weight: 220;
+}
+p {
+    font-size: 1.8rem;
+    line-height: 40px;
+    color: white;
+    font-weight: 300
+}
